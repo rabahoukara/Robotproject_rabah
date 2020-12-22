@@ -62,3 +62,7 @@ TC005_valider_title
     #Element Should Be Disabled   id=username 
     Element Should Be Visible    id=username   
     
+TC_006_display_simple_test
+    
+    Log To console    test git
+    
